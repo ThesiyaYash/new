@@ -1,1 +1,1 @@
-"Thank you for this trick"
+"Thank you for this trick."
